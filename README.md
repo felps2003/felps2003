@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/101263522/177056663-7a86229f-aa28-4f27-9486-4914105dfcde.gif" height="2000" width="600" frameborder="0" scrolling="no" />
+<img align="center" src="https://user-images.githubusercontent.com/101263522/177056663-7a86229f-aa28-4f27-9486-4914105dfcde.gif" height="600" width="2000" frameborder="0" scrolling="no" />
 
 <h1 align="center">Olá!!! Eu me chamo Felype Nunes</h1>
 <h3 align="center">Meu sonho é ser um grande inventor, por isso quero aprender sobre diversas tecnologias!!!</h3>
