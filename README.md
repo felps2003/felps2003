@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felps2003&label=Profile%20views&color=0e75b6&style=flat" alt="felps2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felps2003" alt="felps2003" /></a> </p>
-
 - 🔭 Estou sempre estudando **Inteligência Artificial**
 
 - 🌱 Atualmente estou aprendendo sobre **Python, Pandas, JAVA, pyTorch, SQL e AWS**
@@ -17,7 +15,7 @@
 
 - ⚡ Fato interessante **gosto de fazer jogos por diversão**
 
-<h3 align="left">Me conheça:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felype-nunes-de-souza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felype-nunes-de-souza" height="30" width="40" /></a>
 </p>
