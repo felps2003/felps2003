@@ -3,7 +3,7 @@
 <h1 align="center">Olá!!! Eu me chamo Felype Nunes</h1>
 <h3 align="center">Meu sonho é ser um grande inventor, por isso quero aprender sobre diversas tecnologias!!!</h3>
 
-<img align="right" src="https://user-images.githubusercontent.com/101263522/177057105-53aea2b9-b099-4211-961a-ae5910b37756.gif" height="300" width="300" frameborder="0" scrolling="no" />
+<img align="right" src="https://user-images.githubusercontent.com/101263522/177057105-53aea2b9-b099-4211-961a-ae5910b37756.gif" height="300" width="300"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felps2003&label=Profile%20views&color=0e75b6&style=flat" alt="felps2003" /> </p>
