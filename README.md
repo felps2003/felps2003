@@ -12,7 +12,7 @@
 
 - 🌱 Atualmente estou aprendendo sobre **Python, Pandas, JAVA, pyTorch, SQL e AWS**
 
-- 👨‍💻 Todos os meus projetos estou aqui [no meu github](no meu github)
+- 👨‍💻 Todos os meus projetos estou aqui **no meu github**
 
 - 📫 Pode me enviar mensagem por esse email **felypenunes1609@gmail.com**
 
