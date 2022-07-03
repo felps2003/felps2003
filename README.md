@@ -1,9 +1,9 @@
-<img src="https://user-images.githubusercontent.com/101263522/177056663-7a86229f-aa28-4f27-9486-4914105dfcde.gif" height="359" width="345" frameborder="0" scrolling="no" />
+<img align="center" src="https://user-images.githubusercontent.com/101263522/177056663-7a86229f-aa28-4f27-9486-4914105dfcde.gif" height="2000" width="600" frameborder="0" scrolling="no" />
 
 <h1 align="center">Olá!!! Eu me chamo Felype Nunes</h1>
 <h3 align="center">Meu sonho é ser um grande inventor, por isso quero aprender sobre diversas tecnologias!!!</h3>
 
-<img src="https://user-images.githubusercontent.com/101263522/177057105-53aea2b9-b099-4211-961a-ae5910b37756.gif" height="359" width="345" frameborder="0" scrolling="no" />
+<img align="right" src="https://user-images.githubusercontent.com/101263522/177057105-53aea2b9-b099-4211-961a-ae5910b37756.gif" height="400" width="400" frameborder="0" scrolling="no" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felps2003&label=Profile%20views&color=0e75b6&style=flat" alt="felps2003" /> </p>
