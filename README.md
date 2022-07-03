@@ -1,8 +1,8 @@
 ![Job opening](https://user-images.githubusercontent.com/101263522/177056663-7a86229f-aa28-4f27-9486-4914105dfcde.gif)
 <h1 align="center">Olá!!! Eu me chamo Felype Nunes</h1>
 <h3 align="center">Meu sonho é ser um grande inventor, por isso quero aprender sobre diversas tecnologias!!!</h3>
-![- Find   Share on GIPHY](https://user-images.githubusercontent.com/101263522/177056698-4a5f39ef-c70c-44f5-ac15-b644217f6841.gif)
 
+<img align="right" alt="Coding" width="400" src="https://pin.it/3sXxlzX">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felps2003&label=Profile%20views&color=0e75b6&style=flat" alt="felps2003" /> </p>
 
