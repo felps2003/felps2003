@@ -33,7 +33,5 @@
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=felps2003&&theme=xcode)](https://github.com/felps2003)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felps2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="felps2003" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=felps2003&show_icons=true&locale=en&theme=tokyonight" alt="felps2003" /></p>
-<p>------------------------------------------------------</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felps2003&show_icons=true&locale=en&theme=tokyonight" alt="felps2003" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felps2003&&theme=tokyonight" alt="felps2003" /></p>
