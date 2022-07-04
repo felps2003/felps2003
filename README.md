@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/101263522/177056663-7a86229f-aa28-4f27-9486-4914105dfcde.gif" height="300" width="1000" frameborder="0" scrolling="no" />
+<img align="center" src="https://user-images.githubusercontent.com/101263522/177056663-7a86229f-aa28-4f27-9486-4914105dfcde.gif" height="300" width="800" frameborder="0" scrolling="no" />
 
 <h1 align="center">Olá!!! Eu me chamo Felype Nunes</h1>
 <h3 align="center">Meu sonho é ser um grande inventor, por isso quero aprender sobre diversas tecnologias!!!</h3>
@@ -32,6 +32,6 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=felps2003&&theme=xcode)](https://github.com/felps2003)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felps2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="felps2003" height="300" width="300" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felps2003&show_icons=true&locale=en&theme=tokyonight" alt="felps2003" height="300" width="300" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felps2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="felps2003" height="500" width="700" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felps2003&show_icons=true&locale=en&theme=tokyonight" alt="felps2003" height="500" width="700" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felps2003&&theme=tokyonight" alt="felps2003" /></p>
